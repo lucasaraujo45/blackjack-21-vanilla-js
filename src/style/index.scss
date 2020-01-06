@@ -37,9 +37,11 @@ body {
   &.heart:before,
   &.heart:after {
     content: "\2665";
+    color: red;
   }
   &.diamond:before,
   &.diamond:after {
     content: "\2666";
+    color: red;
   }
 }
